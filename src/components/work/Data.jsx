@@ -9,14 +9,14 @@ export const projectsData = [
         image: Work1,
         title: 'ECommerce App',
         category: 'MERN App',
-        url: "https://www.google.com/"
+        url: "https://github.com/kangjay88/ECommerce_J88"
     },
     {
         id: 2,
         image: Work2,
         title: 'Amazon App',
         category: 'MERN App',
-        url: "https://www.google.com/"
+        url: "https://github.com/kangjay88/JayAmazon_Clone"
     },
     {
         id: 3,
