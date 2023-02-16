@@ -1,7 +1,7 @@
 import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
-
+import Work5 from "../../assets/work5.png";
 
 export const projectsData = [
     {
@@ -13,10 +13,10 @@ export const projectsData = [
     },
     {
         id: 2,
-        image: Work2,
-        title: 'Amazon App',
+        image: Work5,
+        title: 'DemoMedia App',
         category: 'MERN App',
-        url: "https://github.com/kangjay88/JayAmazon_Clone"
+        url: "https://admin-frontend-2d04.onrender.com"
     },
     {
         id: 3,
