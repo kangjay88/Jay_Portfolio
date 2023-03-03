@@ -8,8 +8,8 @@ export const projectsData = [
         id: 1,
         image: Work1,
         title: 'ECommerce App',
-        category: 'MERN App',
-        url: "https://github.com/kangjay88/ECommerce_J88"
+        category: 'Fullstack App',
+        url: "https://vimeo.com/804150170"
     },
     {
         id: 2,
@@ -28,7 +28,7 @@ export const projectsData = [
     {
         id: 4,
         image: Work3,
-        title: 'OpenAI Image App',
+        title: 'Coming Soon',
         category: 'Machine Learning',
         url: "https://www.google.com/"
     },
@@ -39,7 +39,7 @@ export const projectsNav = [
         name: 'All',
     },
     {
-        name: 'Machine Learning',
+        name: 'Fullstack App',
     },
     {
         name: 'MERN App',
